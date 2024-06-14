@@ -1,2 +1,2 @@
-# Statistiques-decisionnelles-
-On dispose de l’échantillon de 50 variables indépendantes suivant, les données ont été classées par ordre croissant pour en faciliter le traitement. Les ex-aequo proviennent d’arrondis.
+# Statistiques decisionnelles avec rstudio
+Le projet consistait à effectuer des tests d'adéquation de données à des lois de probabilité et à étudier la précision de l'estimation des quantiles. À l'aide de méthodes telles que le test du χ2, le test de Kolmogorov-Smirnov et la simulation de données, nous avons examiné la compatibilité des échantillons avec des distributions uniformes et normales. Nous avons également déterminé la taille minimale d'échantillon nécessaire pour obtenir une précision désirée dans l'estimation des quantiles. Le projet a permis d'appliquer des concepts statistiques et des outils informatiques pour analyser et interpréter des données, tout en mettant en lumière l'importance de la précision et de la fiabilité des résultats.
